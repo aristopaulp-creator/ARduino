@@ -1,0 +1,8 @@
+﻿# Build and IDE files
+*.hex
+*.elf
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
